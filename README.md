@@ -22,6 +22,4 @@ pip install numpy
 pip install tkinter
 
 ```
-## Collaborators
-* Arun Kumar
-* Rahul Noronha
+
